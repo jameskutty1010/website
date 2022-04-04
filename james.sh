@@ -1,2 +1,2 @@
 #!/bin/bash
-cp /root/website/james.html /var/www/html
+cp /root/website/index.html /var/www/html
